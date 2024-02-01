@@ -3,7 +3,9 @@ def right_arrow():
     head_char = input()
 
     row1 = '      ' + head_char
-    ''' Type your code here. '''
+    row2 = base_char+base_char+base_char+base_char+base_char+base_char+head_char+head_char
+    row3 = base_char+base_char+base_char+base_char+base_char+base_char+head_char+head_char+head_char
+
 
     print(row1)
     print(row2)
